@@ -1,3 +1,3 @@
 a, b = 4, 2
-c = a**b-a+8+b
+c = a-b
 print(c)
