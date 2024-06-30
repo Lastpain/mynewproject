@@ -1,3 +1,3 @@
 a, b = 4, 2
-c = a**b
+c = a**b-a
 print(c)
